@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  //flip the 0 in subarray
+  //flip the 0 in subarray tyty
   string str="000101";
   int max=1;
   int zeros;
